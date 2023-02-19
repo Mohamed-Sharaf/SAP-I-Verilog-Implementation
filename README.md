@@ -8,9 +8,10 @@
 - [Instruction Set](#instruction-set)
 
 # Description
+The Simple-As-Possible (SAP)-1 computer is a very basic model of a microprocessor which is a bus-organized computer and makes use of Von-Neumann architecture. It makes use of an 8-bit central bus and has ten main components. A pictorial representation of its architecture is shown below.
 
 
-
+![Architecture](Architecture.PNG)
 
 
 
