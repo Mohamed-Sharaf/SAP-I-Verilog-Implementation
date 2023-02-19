@@ -44,5 +44,17 @@ The Simple-As-Possible (SAP)-1 computer is a very basic model of a microprocesso
 - Binary Display
   - The binary display is row of eight light emitting diodes(LEDs). 
 
+
+# Instruction Set
+
+|  Operation  	|                   Description                   	|               OPCODE                |
+|:------:	|:-----------------------------------------------:	|   :-----------------------------------------------:|
+| `Load(LDA)` 	| Load data from memory to the accumulator 	|  0000 |
+| `Add(ADD)`  | Add data from memory to value in the accumulator  |  0001 |
+| `Subtract(SUB)`  | Subtract data from memory from value in the accumulator  |  0010 |
+| `Output(OUT)`  | Load data from accumulator to the output register  |  1110 |
+| `Halt(HLT)`  | Stop processing  |  1111 |
+----
+
 # Note:
 In these files, I combined Designs and its testbench in the same file, but if you want to use it you have to separate them.
