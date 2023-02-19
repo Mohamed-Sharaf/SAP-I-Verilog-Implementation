@@ -13,7 +13,10 @@ The Simple-As-Possible (SAP)-1 computer is a very basic model of a microprocesso
 
 ![Architecture](Architecture.PNG)
 
+# Components
 
+1- Program Counter (PC)
+  -implemented in [program_counter.v](./program_counter.v) file
 
 # Note:
 In these files, I combined Designs and its testbench in the same file, but if you want to use it you have to separate them.
