@@ -15,7 +15,7 @@ The Simple-As-Possible (SAP)-1 computer is a very basic model of a microprocesso
 
 # Components
 
-1- Program Counter (PC)
+- Program Counter (PC)
   -implemented in [program_counter.v](./program_counter.v) file
 
 # Note:
